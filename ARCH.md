@@ -1,4 +1,4 @@
-# ExpenseFlow Architecture
+# ExpenseFlow Architecture 
 
 PoC expense submission and approval API. One user journey: submit an expense,
 convert it to base currency (INR), approve or reject it.
